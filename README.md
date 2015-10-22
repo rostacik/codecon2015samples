@@ -1,2 +1,2 @@
-# codecon2015samples
-Async/Await s TypeScript a Babel samples pre CodeCon 2015
+# CodeCon 2015 - samples
+sampe code for Async/Await with TypeScript and Babel
